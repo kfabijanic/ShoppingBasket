@@ -1,0 +1,7 @@
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\bin\Debug\ShoppingBasket.Bll.dll
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\bin\Debug\ShoppingBasket.Bll.pdb
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\obj\Debug\ShoppingBasket.Bll.csprojResolveAssemblyReference.cache
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\obj\Debug\ShoppingBasket.Bll.csproj.CoreCompileInputs.cache
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\obj\Debug\ShoppingBasket.Bll.dll
+C:\Users\kfabijanic\source\repos\ShoppingBasket\ShoppingBasket.Bll\obj\Debug\ShoppingBasket.Bll.pdb
